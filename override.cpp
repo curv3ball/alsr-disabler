@@ -11,9 +11,9 @@ bool override(LPCSTR path, bool ASLR, bool DEP)
 	LOADED_IMAGE PE;
 	if (MapAndLoad(path, 0, &PE, 0, 0))
 	{
-		if (ASLR) // Enable address space layout randomization
+		if (ASLR)
 			PE.FileHeader->OptionalHeader.DllCharacteristics = IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE;
-		else // Disable address space layout randomization
+		else
 			PE.FileHeader->OptionalHeader.DllCharacteristics = NULL;
 		UnMapAndLoad(&PE);
 		return true;
