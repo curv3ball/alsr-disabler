@@ -3,4 +3,5 @@
 ###### [Very useful for cheat development]
 -------------------------------
 ### Change Log
-###### 05/11/18 : [UPDATE] Uploaded to github, this may need alot of fixing, please report any bugs or improvement concepts.
+##### Updates
+###### 05/11/18 : Uploaded to github, this may need alot of fixing, please report any bugs or improvement concepts.
