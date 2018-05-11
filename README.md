@@ -8,3 +8,6 @@
 
 ##### Fixes
 ###### No fixes have been recorded, this either means that no bugs have yet been found or the fix has not yet been pushed out.
+
+##### Issues
+###### No issues have been addressed, this either means that no issuess have yet been found or the issue has not yet been looked at.
