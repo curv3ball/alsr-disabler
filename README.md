@@ -5,3 +5,6 @@
 ### Change Log
 ##### Updates
 ###### 05/11/18 : Uploaded to github, this may need alot of fixing, please report any bugs or improvement concepts.
+
+##### Fixes
+###### No fixes have been recorded, this either means that no bugs have yet been found or the fix has not yet been pushed out.
