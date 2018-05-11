@@ -1,4 +1,4 @@
-###### [C++] Force disable Address Space Layout Randomization & The DEP Privilege of Another Program
+###### [C++] Force disable Address Space Layout Randomization & the DEP Privilege of another program
 ###### Can be used to access raw addresses to resources, instead of locating the base module & using signature scanning/pointers
 -------------------------------
 ### Change Log
