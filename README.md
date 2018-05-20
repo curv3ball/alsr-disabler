@@ -1,5 +1,5 @@
 ###### [C++] Force disable Address Space Layout Randomization & the DEP Privilege of another program
-###### Can be used to access raw addresses to resources, instead of locating the base module & using signature scanning/pointers by disabling the ASLR of the target, making all of it's addresses predetermined, which makes it easier to exploit the program
+###### Used to access raw addresses to resources, making all of it's addresses predetermined instead of locating the targets base modules & using signature pointers
 ###### [Very useful for cheat development]
 -------------------------------
 ### Change Log
